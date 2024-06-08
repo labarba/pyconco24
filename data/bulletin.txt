@@ -1,0 +1,415 @@
+MAE 1001. Introduction to Mechanical and Aerospace Engineering. 1 Credit.
+
+Careers in mechanical and aerospace engineering. Teamwork and problem-solving skills for solution of design problems. Connections between academic skills and the mechanical and aerospace engineering professions. Basic aspects of engineering ethics. (Fall, Every year)
+
+MAE 1004. Engineering Drawing and Computer Graphics. 3 Credits.
+
+Introduction to technical drawing, including use of instruments, lettering, geometric construction, sketching, orthographic projection, section view, dimensioning, tolerancing, and pictorial drawing. Introduction to computer graphics, including topics covered in manual drawing and computer-aided drafting.
+
+MAE 1117. Introduction to Engineering Computations. 3 Credits.
+
+Foundations of computational thinking focusing on data practices and computational problem-solving; handling data programmatically, variables and their type, logical operations; reading data from files and cleaning and organizing text data; handling multi-dimensional arrays; basic plotting; linear regression; exploratory data analysis, handling labeled data, and data visualization. (Spring, Every year)
+
+MAE 2117. Engineering Computations. 3 Credits.
+
+Computational thinking: modeling and simulation practices. Numerical derivatives. Initial-value problems. Solving differential equations, direction fields, the phase plane. Geometry of linear algebra; eigenvalues and eigenvectors. Fourier analysis. Prerequisites: MAE 1117 and MATH 1232. (Fall, Every year)
+
+MAE 2131. Thermodynamics. 3 Credits.
+
+Fundamentals of equilibrium thermodynamics; Zeroth, First, and Second Laws. Work, heat, internal energy, enthalpy, thermodynamic potential functions; heat transfer mechanisms, phase diagrams, equations of state and property tables, power systems, refrigeration, heat pump systems. Reversible and irreversible processes, Carnot cycle, entropy, exergy. Prerequisite: PHYS 1021. (Spring, Every year)
+
+MAE 2170. History and Impact of the U.S. Patent System. 3 Credits.
+
+Economic systems and emergence of the free market; role of the patent system in the industrial development of the United States; constitutional foundations; evolution of the U.S. patent system; landmark litigation; impact on future innovation; international aspects; the likely future of the patent system.
+
+MAE 3119. Electronics and Devices for Mechanical Engineers. 3,1 Credits.
+
+Broad introduction to modern electronics and devices for mechanical engineers. The course is complemented by laboratories where the students implement the concepts covered in the class and learn how to design and build electrical systems. Prerequisites: MAE 1117 and MAE 2117 or equivalent course sequence in computer programming; and PYHS 1022 or equivalent. (Fall, Every year)
+
+MAE 3120. Methods of Engineering Experimentation. 3 Credits.
+
+Acquisition and analysis of experimental data. Laws of modeling and simulation. Report formulation and presentation. Basic principles of measuring instruments and sensors. Fundamentals of digital data acquisition and use of computer-based data systems. Strain gages, oscilloscopes, transducers, and computerized data systems. Prerequisite: MAE 2117.
+
+MAE 3126. Fluid Mechanics I. 3 Credits.
+
+Fluid properties, fluid statics, integral and differential formulations of conservation of mass, momentum, and energy. Bernoulli’s equation. Dimensional analysis and similitude. Inviscid flow. Viscous flow. Experimental and computational methods in fluid mechanics. Prerequisite: APSC 2058. (Fall, Every year)
+
+MAE 3127. Fluid Mechanics Lab. 1 Credit.
+
+Measurement and analysis of the behavior of fluids. Hydrostatic pressure, Bernoulli equation, conservation of momentum, pipe flow and open channel flow Comparison of experimental data with computational simulations. Prerequisites: APSC 2058. Corequisites: MAE 3126. (Fall, Every year)
+
+MAE 3128. Biomechanics I. 3 Credits.
+
+Mechanical analysis of biological systems. Characterization of living tissue. Applications of statics, solid mechanics, kinematics, and elementary dynamics to the human musculoskeletal system. May be taken for graduate credit with permission of the department. Prerequisites: APSC 2057 and CE 2220. (Spring, Every year)
+
+MAE 3134. Linear System Dynamics. 3 Credits.
+
+Modeling of linear mechanical, electrical, and fluid systems as transfer functions and in state space. Linearization, discretization. Laplace and z-transforms. Natural frequencies and damping, free vibration, forced vibration. Measurement techniques, parameter estimation, and computer simulation. Time and frequency domain analysis. Corequisite: APSC 2058. Prerequisite: APSC 2113. (Spring, Every year)
+
+MAE 3145. Orbital Mechanics and Spacecraft Dynamics. 3 Credits.
+
+Coordinate systems and transformations, rocket equation, two-body problem, orbit transfers, orbit perturbations, attitude dynamics and stability of symmetric spacecraft, environmental and control torques. Prerequisite: APSC 2058. (Fall)
+
+MAE 3155. Aerodynamics. 3 Credits.
+
+Subsonic and supersonic aerodynamics: potential flow, lift and form drag, viscous effects, compressible flow. Prerequisite: MAE 3126.
+
+MAE 3162. Aerospace Structures. 3 Credits.
+
+Basic structural theory of lightweight aerospace structures; analysis of typical monocoque structures; load transfer in stiffened panel structures; virtual work and energy methods of structural analysis, bending of open and closed, thin walled beams, shear and torsion of beams, and structural idealization. Restricted to juniors and seniors; permission of the instructor may be substituted. Prerequisites: APSC 2057 and CE 2220. (Fall, Every year)
+
+MAE 3166W. Materials Science and Engineering. 3 Credits.
+
+Mechanical properties, plastic deformation, dislocation, yielding, strengthening mechanisms, microstructure and properties, heat treatment steel, composites, amorphous materials, viscoelastic deformation, creep, fracture, fatigue, crack propagation. Prerequisites: CHEM 1111 and PHYS 1022. Includes a significant engagement in writing as a form of critical inquiry and scholarly expression to satisfy the WID requirement.
+
+MAE 3167W. Mechanics of Materials Lab. 1 Credit.
+
+Measurement of strains and study of failure resulting from applied forces in ductile, brittle, anisotropic, elastomeric, plastic, and composite materials. Tension, compression, bending, impact, and shear failures. Includes a significant engagement in writing as a form of critical inquiry and scholarly expression to satisfy the WID requirement. MAE 3166W may be taken as a corequisite. Prerequisite: MAE 3166W. (Spring, Every year)
+
+MAE 3171. Patent Law for Engineers. 3 Credits.
+
+Types of patents; international patents; inventorship; prosecution process; basic references for patents; detailed structure of a patent; patentability requirements; reexamination and reissue; litigation; infringement and invalidity; copyrights, trademarks, and trade dress. May be taken for graduate credit with approval of department.   (Spring)
+
+MAE 3184. Robotics Lab. 1 Credit.
+
+Forward and inverse kinematics modeling of robots, control design, trajectory planning, and force rendering. Corequisite: MAE 3197.
+
+MAE 3187. Heat Transfer. 3 Credits.
+
+Steady- and unsteady-state heat conduction problems. Analytical and numerical solution methods. Convective heat transfer, boundary-layer approach, analogy between heat and momentum transfer. Thermal radiation; fundamental concepts and laws. Heat-exchanger design. Prerequisites: MAE 2131 and MAE 3126. (Spring, Every year)
+
+MAE 3191. Mechanical Design of Machine Elements. 3 Credits.
+
+Strength of materials in a design context; stresses and deflections in engineering structures; theories of failure; design of mechanical components, such as fasteners, shafts, and springs; the use of computers in mechanical engineering design. Prerequisite: CE 2220. (Fall, Every year)
+
+MAE 3192. Manufacturing Processes and Systems. 3 Credits.
+
+Introduction to manufacturing techniques for metals, polymers, ceramics, and composites. Relationships between properties of materials and techniques for processing them. Process selection, design, control, and integration. Computer-integrated manufacturing, robotics and assembly automation. MAE 1004 may be taken as a corequisite. Prerequisites: MAE 1004. (Fall, Every year)
+
+MAE 3193. Mechanical Systems Design. 3 Credits.
+
+Creative engineering design, problem definition, and concept generation; design of mechanisms and mechanical systems; safety, reliability, manufacturability, material selections, cost, and integration in the design process; finite element analysis of mechanical systems, computer-aided design, and optimization. Prerequisite: MAE 3191. (Spring, Every year)
+
+MAE 3197. Robotic Systems Design and Applications. 3 Credits.
+
+Modeling and analysis of robot designs. Kinematics, statics, and dynamics of linkages. Design and selection of mechanical structures, actuators, transmissions, and sensors. Design of robotic control systems. Relevant computer hardware and software. Industrial applications and limitations of robot systems. Lab experiments. Same as ECE 4730. Prerequisite: MAE 3134.
+
+MAE 4129. Biomechanics II. 3 Credits.
+
+Mechanical analysis of physiological fluid dynamics. Application of fluid flow analysis techniques to cardiovascular, pulmonary, respiratory, and phonatory flows. Introduction to biomedical devices that manipulate physiological flows. May be taken for graduate credit with approval of department. Prerequisite: MAE 3128.
+
+MAE 4149. Thermal Systems Design. 3 Credits.
+
+Completion of a thermal systems design project that requires integration of engineering science, economics, reliability, safety, ethics, professional responsibility, and social considerations. Development and use of design methodology, optimization, feasibility considerations, detailed system descriptions, and presentation of results. Prerequisites: MAE 3187. (Fall, Every year)
+
+MAE 4151. Capstone Design Project I. 1,3 Credit.
+
+First in a two-course sequence. Students define objectives and an approach for a mechanical engineering project involving experimentation and apply mechanical engineering design, engineering, and laboratory skills in team project implementation. Prerequisites: MAE 3193.
+
+MAE 4152W. Capstone Design Project II. 3 Credits.
+
+Continuation of MAE 4151. Students define objectives and an approach for a mechanical engineering project involving experimentation and apply mechanical engineering design, engineering, and laboratory skills in team project implementation. Prerequisites: MAE 4151. Includes a significant engagement in writing as a form of critical inquiry and scholarly expression to satisfy the WID requirement. (Spring, Every year)
+
+MAE 4157. Aerodynamics Laboratory. 1 Credit.
+
+Subsonic and supersonic wind tunnel experiments and simulations. Prerequisite: MAE 3155. (Fall)
+
+MAE 4163. Airplane Performance. 3 Credits.
+
+Lift and drag estimation methods. Airplane performance measures, such as range and endurance, turning flight, specific excess power and acceleration, takeoff and landing performance. Longitudinal and lateral-direction static and dynamic stability. Control surface effectiveness. Prerequisites: MAE 3126. (Fall, Every year)
+
+MAE 4168. Introduction to Biomaterials. 3 Credits.
+
+Fundamentals of materials science and engineering applied to artificial materials in the human body. Biocompatibility, techniques to minimize corrosion or other degradation of implant materials, use of artificial materials in tissues and organs. Restricted to students who are not enrolled in the mechanical engineering program. Prerequisites: departmental permission. (Fall, Every year)
+
+MAE 4172. Engineering Design and the Patent System. 3 Credits.
+
+Design experience in group projects involving following precisely the teachings of a licensed patent; or avoiding infringement of a provided patent while offering a competitive alternative; or evaluating a provided patent in light of prior art or by attempting to design a competitive product. May be taken for graduate credit with approval of department. Prerequisites: MAE 3171 and senior status. (Spring, Every year)
+
+MAE 4182. Electromechanical Control System Design. 3 Credits.
+
+Fundamentals of linear systems using the Laplace transform. Mathematical models of dynamic systems. Root locus and frequency response methods. Design of linear controller with applications to mechanical and aerospace systems. Prerequisites: MAE 2117 and MAE 3134. (Fall, Every year)
+
+MAE 4183. Controls Lab. 1 Credit.
+
+Modeling, control design, simulation, implementation, tuning, and operation of a control system. Corequisite: MAE 4182.
+
+MAE 4194. Mechatronics Design. 3 Credits.
+
+Data acquisition and digital signal processing. Sensors and their characteristics—displacement, position/velocity, force/pressure, piezoelectric. Actuators—mechanical, electrical, pneumatic, hydraulic. Modeling and simulation of dynamic systems. Mechanism design. Digital control systems. Microprocessors, digital logic/circuits, motor drives. Lab experiments. Prerequisite: MAE 4182.
+
+MAE 4195. Mechatronics Lab. 1 Credit.
+
+Designing and building a mechatronic system based around a programmable microcontroller; using sensors and actuators to create devices capable of sensing their surrounding environment and reacting to stimuli from that environment. Corequisites: MAE 6194 for students enrolled in MAE 6195, MAE 4194 for student enrolled in MAE 4195. (Spring, Every year)
+
+MAE 4199. Student Design Project. 1-4 Credits.
+
+Student projects involving extensive design of various mechanical engineering systems. May be taken for graduate credit with the expectation that additional work is required. Prerequisites: Senior Status. (Spring and fall, Every year)
+
+MAE 6194. Mechatronics Design. 3 Credits.
+
+Review of data acquisition and digital signal processing; mathematical models, design, and applications of sensors and actuators in mechatronic systems; theory and applications of mechanism design; microprocessor-based design integration, motor drives, and digital logic/circuits. Corequisite: MAE 6195. Restricted to graduate students. (Same as MAE 4194) (Spring, Every year)
+
+MAE 6204. Tissue Engineering. 3 Credits.
+
+Key components of tissue engineering; stem cells, biomaterials, and advanced 3D fabrication techniques; applications including neural, cardiovascular, bone, cartilage, and osteochondral tissue regeneration.
+
+MAE 6207. Theory of Elasticity I. 3 Credits.
+
+Introduction to Cartesian tensors; deformation, stress, constitutive relations for linear elasticity; formulation of boundary value problems, variational principles, torsion and bending of prismatial rods, plane problems. Permission of the department required prior to enrollment. Same As: CE 6207. (Fall, Every year)
+
+MAE 6210. Continuum Mechanics. 3 Credits.
+
+Tensor analysis; fundamental concepts of continuum mechanics; kinematics of continuum; derivation of balance laws of mass, linear momentum, angular momentum, energy and entropy; axioms of constitutive theory; formulation of constitutive theories; Onsager’s principle; objectivity; representation theorem for isotropic functions; plasticity, including concepts of internal variables, yield surface, return mapping algorithm. Permission of the department required prior to enrollment. (Fall, Every year)
+
+MAE 6220. Applied Computational Fluid Dynamics. 3 Credits.
+
+Basic principles of fluid dynamics and aerodynamics. Finite difference and finite volume methods. Fluid flow and heat transfer analysis of thermo-fluid mechanical systems. Computational aerodynamics codes. Individual hands-on experience with a commercial CFD code such as FLUENT. Permission of the department required prior to enrollment. (Fall and spring, Every year)
+
+MAE 6221. Fluid Mechanics. 3 Credits.
+
+Continuum, kinematics of fluids; stress and strain rate tensors; fundamental equations of viscous compressible flows. Irrotational flows; sources, sinks, doublets, and vortices. Laminar flow of viscous incompressible fluids; boundary-layer concept. Permission of the department required prior to enrollment. (Fall, Every year)
+
+MAE 6223. Turbomachinery. 3 Credits.
+
+Turbine, compressor, and pump types and uses; dimensional analysis of turbomachines; cycle analysis of gas and steam turbines; energy interchange in fluid machinery; design, characteristics, and performance of turbines, compressors, and pumps; comparison of types of turbines, compressors, and pumps. Prerequisite: MAE 6221.
+
+MAE 6224. Viscous Flow. 3 Credits.
+
+Exact solutions of Navier–Stokes equations; the laminar boundary-layer theory. Reynolds stresses and turbulence; internal, boundary-layer, and mixing flows. Applications to heat and mass transfer and to reacting flows. Prerequisites: APSC 6213 and MAE 6221. (Fall and spring, Every year)
+
+MAE 6225. Computational Fluid Dynamics. 3 Credits.
+
+Theory of discrete methods for solving the governing equations of fluid dynamics. Potential flow, Euler equations, Navier-Stokes equations. Emphasis on algorithm development appropriate to modern supercomputers. Prerequisites: MAE 6221 and MAE 6286. (Spring, Every year)
+
+MAE 6226. Aerodynamics and Hydrodynamics. 3 Credits.
+
+Inviscid flows in two/three dimensions, irrotational flow theory; conformal mapping and applications. Helmoltz theorems and vorticity dynamics. Applications such as airfoil theory, finite wing theory, panel methods, instabilities, free surface flow. Prerequisites: MAE 6221. (Spring, Every year)
+
+MAE 6228. Compressible Flow. 3 Credits.
+
+Thermodynamics and equations of compressible inviscid flow. One-dimensional flow. Isentropic flow. Normal and oblique shock waves. Quasi-one-dimensional flow. Unsteady one-dimensional and steady two-dimensional flow. Introduction to transonic flow. Prerequisites: APSC 6213 and MAE 6221.
+
+MAE 6229. Propulsion. 3 Credits.
+
+Basic concepts of propulsion: energy transformations in propulsive flows, gas dynamics of combustion. Thermal and propulsive efficiencies. Cycle and engine component analysis. Intake, nozzle performance. Drag and thrust generation. Augmentation. Propellers, turbojets, turbofans, ramjets, and rockets. Prerequisites: Graduate standing; or MAE 2131 and MAE 3126. (Spring, Every year)
+
+MAE 6230. Space Propulsion. 3 Credits.
+
+Advanced chemical propulsion: dynamic combustion and instabilities in solid propellants. Injection, atomization, mixing in liquid propellant engine performance. Plasma propulsion: electrostatic, electromagnetic, and electrothermal instabilities (laser and microwave). Nuclear propulsion. Prerequisite: MAE 6229.
+
+MAE 6232. Fracture Mechanics. 3 Credits.
+
+Concepts, history, and recent developments of fracture mechanics. Singularity at the crack tip; solutions around crack tip; stress intensity factors; energy release rate; J-integral; direction of crack extension; Plasticity and slow crack growth; dynamic crack propagation; molecular dynamics simulation of fracture. Prerequisite: approval of department.
+
+MAE 6234. Composite Materials. 3 Credits.
+
+Principles of composites and composite reinforcement. Micromechanics and failure, interface reactions in various composites, reinforcing materials. Structure of composites: fiber-reinforced polymers, filler-reinforced polymers, fiber-reinforced metals, directionally solidified alloys, dispersion-strengthened metals. Permission of the department required prior to enrollment. (Fall and spring, Every year)
+
+MAE 6235. Deformation and Failure of Materials. 3 Credits.
+
+Elastic and plastic deformation, yield, dislocations, creep, fracture, polymers, microstructure, fatigue. Prerequisites: MAE 6289. (Spring, Odd years)
+
+MAE 6238. Biomaterials. 3 Credits.
+
+Applications of materials science and engineering to artificial materials in the human body with the objective of detailed understanding of synthetic materials and biopolymers. Biocompatibility and its consequences on tissue–implant interfaces. Design and development of new implant materials, drug delivery systems, and biosensors. Prerequisite: MAE 3166 or MAE 4168.
+
+MAE 6239. Computational Nanosciences. 3 Credits.
+
+Introduction to surface force measurements in nanosciences; continuum contact mechanics in nanoscience research; intermolecular forces; empirical potentials for transition metals; surface forces in liquids; large-scale atomic/molecular massively parallel simulator; force field development from quantum mechanical density–functional theory for organic/metal molecular systems. Prerequisites: departmental permission. (Fall, Every year)
+
+MAE 6243. Advanced Mechanical Engineering Design. 3 Credits.
+
+Design of mechanical engineering components and systems emphasizing computer-aided engineering (CAE), including interactive computer graphics, finite element analysis, and design optimization. Creation of a complete design on an engineering workstation. Prerequisites: departmental permission. (Fall, Every year)
+
+MAE 6245. Robotic Systems. 3 Credits.
+
+Classification, features, and applications of industrial robots. Spatial descriptions and transformations, forward and inverse kinematics. Jacobian matrix, velocities and static forces, manipulator dynamics and controls. Robot actuators, transmissions, sensors, end effectors, and programming. Prerequisite: MAE 4182 .
+
+MAE 6246. Electromechanical Control Systems. 3 Credits.
+
+State–space representations of dynamic systems; dynamics of linear systems; controllability and observability; linear observers; compensator design by separation principle; linear–quadratic optimal control; Riccati equations; random processes; Kalman filter; applications of optimal stochastic control theory to robotics and earthquake engineering. Prerequisites: departmental permission. (Fall, Every year)
+
+MAE 6247. Aircraft Design I. 3 Credits.
+
+Conceptual design methods used in response to prescribed mission and performance requirements, alternate configuration concepts. Configuration general arrangement and empennage sizing. Estimation of aircraft size, weight, and balance; lift, thrust and drag; system level tradeoff and sensitivity studies. Prerequisites: Graduate standing or MAE 4163. (Spring, Every year)
+
+MAE 6249. Spacecraft Design. 3 Credits.
+
+Computer-aided design of spacecraft and satellites to meet specific mission requirements. Environment, propulsion, structure, heat transfer, orbital mechanics, control considerations. Use of modern computer codes for design studies. Prerequisites: MAE 3145 or graduate standing. (Spring, Every year)
+
+MAE 6251. Computer-Integrated Manufacturing. 3 Credits.
+
+Automation techniques for processing metals, polymers, and composites. Use of sensing and process modeling in process control. Numerical control and robot applications and limitations. Integration, scheduling, and tool management in the computer-integrated factory. Quality control. Social and economic considerations in CIM. Prerequisite: MAE 3192 .
+
+MAE 6254. Applied Nonlinear Control. 3 Credits.
+
+Dynamic characteristics of nonlinear systems. State stability and input-output stability. Lyapunov stability theory and invariance principle. Nonlinear control systems, including feedback linearization, back-stepping, sliding mode control, and passivity-based design. Applications to robotics, aircraft, and spacecraft control systems. Geometric controls and hybrid systems. Prerequisites: departmental permission. (As arranged, Every year)
+
+MAE 6255. Plasma Engineering in Aerospace and Nanotechnology. 3 Credits.
+
+Plasma fundamentals, electromagnetic waves in plasma, plasma-wall interactions, modeling and experimental techniques in plasmas, electrical discharge, plasma propulsion, plasma-based nanotechnology. Prerequisite: MAE 3126. (Fall, Every year)
+
+MAE 6257. Theory of Vibration. 3 Credits.
+
+Damped and undamped natural vibration, response of single- and multiple-degrees-of-freedom systems to steady-state and transient excitations, modal analysis, nonproportional damping and complex modes, variation formulation of equations of motion, discretization of structural systems for vibrational analysis. Prerequisite: Permission of the department. (Fall and spring, Every year)
+
+MAE 6258. Advanced Vibration Analysis and Control. 3 Credits.
+
+Passive and active vibration control of discrete and continuous systems, dynamic vibration absorbers, random vibrations, failure analysis, modal analysis, nonlinear vibrations. Prerequisites: MAE 3134 and MAE 4182 or graduate standing.   (Spring)
+
+MAE 6260. Nanomechanics. 3 Credits.
+
+Topics include crystal and reciprocal lattice; phonon dispersion relations; molecular dynamics simulation; velocity Verlet algorithm; upgraded Nose-Hoover thermostat; Maxwell’s equations at atomic scale, sequential and concurrent multiscale modeling. Prerequisites: permission of the department. (Spring, Every year)
+
+MAE 6261. Air Pollution. 3 Credits.
+
+Introductory course on the generation, monitoring, and control of air pollution. Atmospheric pollutants; current levels and health problems. Combustion chemistry and mixing. Photochemical processes; smog and measurements. Atmospheric dispersion; inversion and acid rain. Permission of the department required prior to enrollment. (Fall and spring, Every year)
+
+MAE 6262. Energy Systems Analysis. 3 Credits.
+
+Analysis of energy resources and conversion devices. Statistical data analysis, forecasting, I/O, and net energy analyses, mathematical modeling. Prerequisites: departmental permission. (Fall, Every year)
+
+MAE 6263. Energy and Sustainability. 3 Credits.
+
+Review of thermodynamics, heat transfer, fluid dynamics, and materials technology used in the energy industries. New energy-efficient technologies in transportation and buildings; renewable energy (wind, solar, and biomass). Climate change and sustainability issues, such as carbon capture, cap and trade, carbon sequestration. (Spring, Every year)
+
+MAE 6270. Theoretical Acoustics. 3 Credits.
+
+Basic acoustic theory in stationary and uniformly moving media; waves in infinite space; sound transmission through interfaces; sound radiation from simple solid boundaries, source and dipole fields; propagation in ducts and enclosures; elements of classical absorption of sound. Prerequisites: APSC 6213 and MAE 6221. (Fall and spring, Every year)
+
+MAE 6274. Dynamics and Control of Spacecraft. 3 Credits.
+
+Fundamentals of satellite attitude dynamics and passive stabilization. Spacecraft attitude representation, rotational kinematics and kinetics. External torques. Dynamics of gyroscopes. Gravity gradient stabilization. Effect of internal energy dissipation on stability of spinning bodies and methods of despin. Dual spin satellites. Prerequisite: Permission of the department. (Fall and spring, Every year)
+
+MAE 6275. Dynamics and Control of Aircraft. 3 Credits.
+
+Derivation of equations of motion, Euler transformations and direction cosines, stability derivatives and linearization of equations of motion, stability of linear systems with application to longitudinal and lateral dynamics, Laplace transform techniques, and frequency-response analysis. Permission of the department required prior to enrollment. (Fall, Even years)
+
+MAE 6277. Spacecraft Attitude Control. 3 Credits.
+
+Control of spinning and three-axis stabilized spacecraft. Elements of linear control theory for single-input, single-output systems and basic feedback control laws. Momentum management and actuator desaturation. Sensors for attitude determination. Application of modern control for multi-input, multi-output systems. Control system simulations using MatLab.    (As arranged)
+
+MAE 6280. Thermodynamics. 3 Credits.
+
+First and second Laws of thermodynamics. Basics of quantum mechanics used in statistical mechanics. Treatment of crystals, monoatomic, and diatomic gases. Permission of the department required prior to enrollment (Fall, Every year)
+
+MAE 6282. Convective Heat/Mass Transfer. 3 Credits.
+
+Heat and momentum transfer in laminar and turbulent flow. The laminar boundary-layer solution. Similarity and nondimensional parameters. Mass-momentum heat transfer analogy. Convective heat transfer at high velocity. Stability, transition, and turbulence. Free convection. Prerequisite: MAE 6221 .
+
+MAE 6284. Combustion. 3 Credits.
+
+Basic combustion phenomena. Rate processes and chemical kinetics. Chain reaction theory. Detonation, deflagration, diffusion flames, heterogeneous combustion. Experimental measurements. Impact of pollution regulations and alternate fuels. Permission of the department required prior to enrollment. (Fall, Odd years)
+
+MAE 6286. Numerical Solution Techniques in Mechanical and Aerospace Engineering. 3 Credits.
+
+Development of finite difference and finite element techniques for solving elliptic, parabolic, and hyperbolic partial differential equations. (Fall, Every year)
+
+MAE 6287. Applied Finite Element Methods. 3 Credits.
+
+Review of fundamentals of continuum mechanics, especially the theory of elasticity. Permission of the department required prior to enrollment. (Spring, Every year)
+
+MAE 6288. Advanced Finite Element Analysis. 3 Credits.
+
+Review of variational formulation of the finite element method. Prerequisites: permission of the department. Credit cannot be earned for this course and CE 8330.
+
+MAE 6289. Advanced Materials Science and Engineering. 3 Credits.
+
+Structure-property relationships, fatigue, creep, fracture and strengthening mechanisms. Review of heat capacity, thermal and electrical conductivities, quantized crystal vibrations and optical properties (Fall, Every year)
+
+MAE 8350. Advanced Topics in Materials Science. 3 Credits.
+
+Topics such as surface science that are of current research interest. Selected after consultation between department faculty and students. Prerequisite: Permission of the department. (Fall and spring, Every year)
+
+MAE 8351. Advanced Topics in Mechanical Engineering. 3 Credits.
+
+Topics such as advanced analytical mechanics, advanced mechanics of continua, and advanced theory of elasticity that are of current research interest. Selected after consultation between department faculty and students. Prerequisite: Permission of the department. (Fall and spring, Every year)
+
+MAE 8352. Advanced Topics in Aerospace Engineering. 3 Credits.
+
+Topics such as nonsteady flow, physical gas dynamics, turbulence, and nonlinear wave propagation that are of current research interest. Selected after consultation between department faculty and students. Prerequisite: Permission of the department. (Fall and spring, Every year)
+
+APSC 1001. Introduction to Engineering for Undeclared Majors. 1 Credit.
+
+As an introduction to disciplines within SEAS, potential solutions to problems are presented by practitioners of civil and environmental engineering; computer science; electrical, computer, and biomedical engineering; mechanical and aerospace engineering; and systems engineering.
+
+APSC 2057. Analytical Mechanics I. 3 Credits.
+
+First half of a one-year sequence. Concepts of statics: force systems, conditions of force and moment equilibrium, simple structures, distributed forces, centroids, internal forces, friction, moments of inertia. Prerequisites: PHYS 1021.
+
+APSC 2058. Analytical Mechanics II. 3 Credits.
+
+Second half of a one-year sequence. Concepts of dynamics: kinematics of particles, velocity and acceleration, translating and rotating reference frames, particle dynamics, motion under central and electromagnetic force, effect of Earth's rotation, vibrations, work, kinetic and potential energy, dynamics of systems of particles. Prerequisite: APSC 2057. (Fall and spring, Every year)
+
+APSC 2113. Engineering Analysis I. 3 Credits.
+
+Analytical methods for the solution of problems in engineering, the physical sciences, and applied mathematics: applications of ordinary differential equations, matrices and determinants, eigenvalues and eigenvectors, systems of ordinary linear differential equations, Bessel and Legendre functions. Prerequisite or concurrent registration: MATH 2233.
+
+APSC 2114. Engineering Analysis II. 3 Credits.
+
+Analytical methods for the solution of problems in engineering, the physical sciences, and applied mathematics: complex variables, Fourier series and integral, frequency filters, Laplace transforms, inversion and Duhamel integrals; partial differential equations. Prerequisite: MATH 2233.
+
+APSC 3115. Engineering Analysis III. 3 Credits.
+
+Analytical methods for the solution of problems in engineering using concepts from probability and statistics: probability modeling, random variables and their distributions, mathematical expectation, sampling, point and confidence interval estimation, hypothesis testing, correlation, regression, and engineering applications. (Fall, spring, And summer)
+
+APSC 3116. Engineering Analysis IV. 3 Credits.
+
+Analytical methods using advanced concepts from probability and statistics: multivariate distributions, expectation, generating functions, parametric families of distributions, sampling and sufficient statistics, estimation, hypothesis testing, and engineering applications. May be taken for graduate credit.    Prerequisites: APSC 3115 and MATH 2233. (Fall, Every year)
+
+APSC 6211. Analytical Methods in Engineering I. 3 Credits.
+
+Engineering applications of the theory of complex variables: contour integration, conformal mapping, inversion integral, and boundary-value problems. Prerequisite: approval of department.
+
+APSC 6212. Analytical Methods in Engineering II. 3 Credits.
+
+Algebraic methods appropriate to the solution of engineering computational problems: linear vector spaces, matrices, systems of linear equations, eigenvalues and eigenvectors, quadratic forms. Permission of the department required prior to enrollment. (Spring, Every year)
+
+APSC 6213. Analytical Methods in Engineering III. 3 Credits.
+
+Analytical techniques for solution of boundary-initial-value problems in engineering: wave propagation, diffusion processes, and potential distributions. Permission of the department required prior to enrollment. (Spring, Every year)
+
+APSC 6214. Analytical Methods in Engineering IV. 3 Credits.
+
+Introduction to variational methods in engineering: Ritz and Galerkin approximation methods of boundary-value problems, aspects of linear integral equations arising from engineering analysis. Permission of the department required prior to enrollment. (Spring, Every year)
+
+APSC 6215. Analytical Methods in Engineering V. 3 Credits.
+
+Advanced methods of solution of boundary-initial-value problems in engineering: characteristics, wave propagation, and Green's functions. Prerequisite: APSC 6213.
+
+CHEM 1111. General Chemistry I. 4 Credits.
+
+Atomic structure and properties; stoichiometry; gas, liquid, and solid state; chemical bonding; solutions; chemical kinetics and equilibria; thermodynamics; acids and bases; electrochemistry; descriptive chemistry. Restricted to students who have successfully completed high school algebra prior to matriculation and have completed the ALEKS chemistry preparatory course at GW and achieved at least 95 percent mastery.
+
+CHEM 1112. General Chemistry II. 4 Credits.
+
+Continuation of CHEM 1111. Atomic structure and properties; stoichiometry; gas, liquid, and solid state; chemical bonding; solutions; chemical kinetics and equilibria; thermodynamics; acids and bases; electrochemistry; descriptive chemistry. Laboratory fee. Prerequisite: CHEM 1111.
+
+CHEM 1113. General Chemistry for Engineers. 4 Credits.
+
+One-semester general chemistry course for students majoring in engineering. Students in applied science and technology, biomedical engineering, environmental engineering, or pre-med track should take CHEM 1111 and CHEM 1112 in lieu of this course. Restricted to students who have successfully completed high school algebra prior to matriculation and have completed the ALEKS chemistry preparatory course at GW and achieved at least 95 percent mastery.
+
+MATH 1231. Single-Variable Calculus I. 3 Credits.
+
+Limits and continuity; differentiation and integration of algebraic and trigonometric functions with applications. Restricted to students with a minimum score of 76 on the ALEKS placement examination.
+
+MATH 1232. Single-Variable Calculus II. 3 Credits.
+
+The calculus of exponential and logarithmic functions. L’Hopital’s rule. Techniques of integration. Infinite series and Taylor series. Polar coordinates. Prerequisite: MATH 1221 or MATH 1231.
+
+MATH 2184. Linear Algebra I. 3 Credits.
+
+Linear equations, matrices, inverses, and determinants. Vector spaces, rank, eigenvalues, and diagonalization. Applications to geometry and ordinary differential equations. Prerequisites: MATH 1221 or MATH 1231 or MATH 1252; or permission of the instructor.
+
+MATH 2233. Multivariable Calculus. 3 Credits.
+
+Partial derivatives and multiple integrals. Vector-valued functions. Line and surface integrals and the theorems of Gauss, Green, and Stokes. Prerequisite: MATH 1232.
+
+PHYS 1021. University Physics I. 4 Credits.
+
+Classical mechanics and thermodynamics using calculus. Newtonian mechanics: force, momentum, work and energy, mechanical equilibrium, linear, and rotational motion. Gravitation and fields; atoms, physical properties of matter; energy transfer and waves, sound. Prerequisites: MATH 1220 or MATH 1221 or MATH 1231.
+
+PHYS 1022. University Physics II. 4 Credits.
+
+Periodic motion, waves, and classical electromagnetism using calculus; waves and sound. Electrostatics, Gauss’s law, capacitance; electric resistance, electric current; magnetism. Electrodynamics and electromagnetic induction; Maxwell’s theory and electromagnetic radiation. Geometric and physical optics. Prerequisites: PHYS 1021 or PHYS 1025; and MATH 1232.
